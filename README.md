@@ -40,6 +40,6 @@ You can't improve what you don't measure.
 
 ## 📖 License
 
- [Here](https://github.com/gncll/body-calculator/blob/main/LICENSE.txt)
+ [MIT](https://github.com/gncll/body-calculator/blob/main/LICENSE.txt)
 
 
