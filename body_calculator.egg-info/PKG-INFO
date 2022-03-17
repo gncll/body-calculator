@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: body-calculator
+Version: 0.0.1
+Summary: Basic body calculator
+Home-page: UNKNOWN
+Author: Gencay Isik
+Author-email: geencay@gmail.com
+License: MIT
+Keywords: body- calculator
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+
+
+
+
