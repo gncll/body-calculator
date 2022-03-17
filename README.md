@@ -5,6 +5,8 @@ This is a simple body calculator library to help people achieve their physical g
 
 ## Installation
 
+>*🔔 Make sure that numpy is installed to your system.*
+
 `
 pip install bodycal==0.0.7
 `
