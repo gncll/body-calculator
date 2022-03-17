@@ -29,13 +29,13 @@ pip install bodycal==0.0.7
 
 ##  Create a bug report
 
-Help us to develope. [✍️](https://github.com/gncll/body-calculator/issues)
+*Help us to develope.* [✍️](https://github.com/gncll/body-calculator/issues)
 
 
 
 ## Philosophy
 
-📒 You can't improve what you don't measure.
+📒 *You can't improve what you don't measure.*
 
 ##  License
 
