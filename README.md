@@ -40,7 +40,7 @@ Help us to [develope.](https://github.com/gncll/body-calculator/issues)✍️
 
 ##  License
 
-https://img.shields.io/github/license/gncll/body-calculator
+![GitHub](https://img.shields.io/github/license/gncll/body-calculator)
 
 📖[MIT](https://github.com/gncll/body-calculator/blob/main/LICENSE.txt)
 
