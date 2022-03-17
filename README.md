@@ -1,4 +1,4 @@
-<img width="350" alt="Screen Shot 2022-03-17 at 15 34 48" src="https://user-images.githubusercontent.com/29928837/158809582-b00498e1-2985-464a-b066-0b62708ae0a3.png">  
+<img width="300" alt="Screen Shot 2022-03-17 at 15 34 48" src="https://user-images.githubusercontent.com/29928837/158809582-b00498e1-2985-464a-b066-0b62708ae0a3.png">  
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
