@@ -3,8 +3,11 @@
 
 This is a simple body calculator library to help people achieve their physical goals.
 
-## Version
-
-To install latest version : 
+## Installation
 
 pip install bodycal==0.0.7
+
+## Create a bug report
+
+Help us to [develope](https://github.com/gncll/body-calculator/issues)
+
