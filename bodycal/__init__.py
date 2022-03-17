@@ -1,3 +1,5 @@
+import numpy as np
+
 def fat_perc_male_cm_exp(abdomen, neck, height):
     abdomen_inc = abdomen / 2.54
     neck_inc = neck / (2.54)
