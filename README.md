@@ -12,13 +12,12 @@ pip install bodycal==0.0.7
 ## Example
 
 `
-bodycal.fat_perc_male_cm(100,38,93)
+bodycal.fat_perc_male_cm(abdomen,neck,height)
 
-#Arguments : abdomen,neck,height
 
-bodycal.fat_perc_female_cm(70,100,38,185)
+bodycal.fat_perc_female_cm(abdomen,hip,neck,height)
 
-#Arguments : abdomen,hip,neck,height
+
 `
 
 
