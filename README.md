@@ -5,7 +5,9 @@ This is a simple body calculator library to help people achieve their physical g
 
 ## Installation
 
+`
 pip install bodycal==0.0.7
+`
 
 ## Create a bug report
 
