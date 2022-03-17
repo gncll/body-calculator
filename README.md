@@ -15,9 +15,6 @@
 ![PyPI](https://img.shields.io/pypi/v/bodycal)
 
 
-[<img width="100" alt="Screen Shot 2022-03-17 at 15 49 43" src="https://user-images.githubusercontent.com/29928837/158812048-c4aa8cf6-d510-4f43-b414-ca5502006891.png">](https://pypi.org/project/bodycal/0.0.7/)
-
-
 `
 pip install bodycal==0.0.7
 `
