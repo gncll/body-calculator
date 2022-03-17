@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+bodycal/__init__.py
+bodycal.egg-info/PKG-INFO
+bodycal.egg-info/SOURCES.txt
+bodycal.egg-info/dependency_links.txt
+bodycal.egg-info/requires.txt
+bodycal.egg-info/top_level.txt
