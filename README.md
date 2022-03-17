@@ -1,4 +1,5 @@
-<img width="331" alt="Screen Shot 2022-03-17 at 15 30 17" src="https://user-images.githubusercontent.com/29928837/158808865-8ce89454-438a-425c-aeed-6f9f93018ff0.png">
+<img width="350" alt="Screen Shot 2022-03-17 at 15 33 01" src="https://user-images.githubusercontent.com/29928837/158809269-6cf4bb2a-ff63-4eb0-bc9d-ba2dadeb2bd8.png">
+
 
 
 # bodycal.      [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
