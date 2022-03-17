@@ -3,7 +3,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*This is a simple body calculator library aims to help people in the matter of achievin their physical goals.*
+*This is a simple body calculator library aims to help people in the matter of achieving their physical goals.*
 
 ## Installation
 
