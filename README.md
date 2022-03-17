@@ -10,6 +10,13 @@ This is a simple body calculator library to help people achieve their physical g
 >*🔔 Make sure that numpy is installed to your system.*
 >> `pip install numpy`
 
+## The Current Version
+
+📖Docs
+
+[<img width="100" alt="Screen Shot 2022-03-17 at 15 49 43" src="https://user-images.githubusercontent.com/29928837/158812048-c4aa8cf6-d510-4f43-b414-ca5502006891.png">](https://pypi.org/project/bodycal/0.0.7/)
+
+
 `
 pip install bodycal==0.0.7
 `
@@ -22,8 +29,6 @@ pip install bodycal==0.0.7
 `bodycal.fat_perc_female_cm(abdomen,hip,neck,height)`
 
 
-
-
 ## ✍️ Create a bug report
 
 Help us to [develope.](https://github.com/gncll/body-calculator/issues)
@@ -33,5 +38,9 @@ Help us to [develope.](https://github.com/gncll/body-calculator/issues)
 ## 📒 Philosophy
 
 You can't improve what you don't measure.
+
+## 📖 License
+
+ [Here](https://github.com/gncll/body-calculator/blob/main/LICENSE.txt)
 
 
