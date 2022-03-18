@@ -10,7 +10,7 @@
 >*🔔 Make sure that numpy is installed to your system.*
 >> `pip install numpy`
 
->`pip install bodycal`
+`pip install bodycal`
 
 ## The Current Version
 
