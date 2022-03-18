@@ -5,9 +5,6 @@
 
 *This is a simple body calculator library aims to help people in the matter of achieving their physical goals.*
 
-*Follow for more*
-
-![[GitHub followers](https://img.shields.io/github/followers/gncll?style=social)](https://github.com/gncll)
 
 ## Installation
 
@@ -50,6 +47,10 @@ pip install bodycal==0.0.7
 ## Stats
 
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/bodycal)
+
+## Activity
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gncll/body-calculator)
 
 
 
