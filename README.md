@@ -46,12 +46,9 @@ pip install bodycal==0.0.7
 
 ## Stats
 
-![PyPI - Downloads](https://img.shields.io/pypi/dm/bodycal) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gncll/body-calculator)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/bodycal) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gncll/body-calculator) ![GitHub last commit](https://img.shields.io/github/last-commit/gncll/body-calculator)
 
 
-## Activity
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gncll/body-calculator)
 
 
 
