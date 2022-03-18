@@ -45,9 +45,6 @@ pip install bodycal==0.0.7
 
 ## Stats
 
-*Stats will be updated through the time.*
-
-
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/bodycal)
 
 
