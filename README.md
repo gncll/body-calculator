@@ -5,6 +5,10 @@
 
 *This is a simple body calculator library aims to help people in the matter of achieving their physical goals.*
 
+*Follow for more*
+
+![GitHub followers](https://img.shields.io/github/followers/gncll?style=social)
+
 ## Installation
 
 >*🔔 Make sure that numpy is installed to your system.*
