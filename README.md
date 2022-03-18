@@ -7,7 +7,7 @@
 
 *Follow for more*
 
-![GitHub followers](https://img.shields.io/github/followers/gncll?style=social)
+![[GitHub followers](https://img.shields.io/github/followers/gncll?style=social)](https://github.com/gncll)
 
 ## Installation
 
