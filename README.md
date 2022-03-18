@@ -2,7 +2,7 @@
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/bodycal) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gncll/body-calculator) ![GitHub last commit](https://img.shields.io/github/last-commit/gncll/body-calculator)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/bodycal) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gncll/body-calculator) ![GitHub last commit](https://img.shields.io/github/last-commit/gncll/body-calculator) ![GitHub Repo stars](https://img.shields.io/github/stars/gncll/body-calculator?style=social)
 
 *This is a simple body calculator library aims to help people in the matter of achieving their physical goals.*
 
