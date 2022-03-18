@@ -10,6 +10,8 @@
 >*🔔 Make sure that numpy is installed to your system.*
 >> `pip install numpy`
 
+>`pip install bodycal`
+
 ## The Current Version
 
 ![PyPI](https://img.shields.io/pypi/v/bodycal)
