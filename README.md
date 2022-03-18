@@ -35,7 +35,7 @@ pip install bodycal==0.0.7
 
 ## Philosophy
 
-📒 *You can't improve what you don't measure.*
+ *You can't improve what you don't measure.*
 
 ##  License
 
